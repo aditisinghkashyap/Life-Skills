@@ -99,6 +99,6 @@ Object-Oriented Programming (OOPs) is a programming paradigm based on the concep
 
 ## References
 
-* Python OOP Documentation
-* GeeksforGeeks - OOP Concepts
-* Grammarly
+* https://docs.oracle.com/javase/tutorial/java/concepts/
+* https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/
+* https://www.w3schools.com/java/java_oop.asp

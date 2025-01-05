@@ -28,6 +28,8 @@
 - Not paying attention to body language or tone.  
 - Misunderstanding the message due to assumptions.  
 
+---
+
 **Question 4**  
 **Ways to Improve Listening:**  
 - Stay focused and remove distractions.  
@@ -42,13 +44,19 @@
 **When do you switch to Passive Communication?**  
 I switch to passive communication when I feel nervous, avoid conflicts, or when I don’t want to upset someone.  
 
+---
+
 **Question 6**  
 **When do you switch to Aggressive Communication?**  
 I switch to aggressive communication when I feel frustrated, need to defend myself quickly, or feel my opinion is ignored.  
 
+---
+
 **Question 7**  
 **When do you switch to Passive-Aggressive Communication?**  
 I switch to passive-aggressive communication when I’m upset but don’t want to confront directly, like using sarcasm or giving silent treatment.  
+
+---
 
 **Question 8**  
 **How to Make Communication Assertive:**  

@@ -1,4 +1,5 @@
 **Question 1**
+
 **What are the steps/strategies to do Active Listening?**  
 
 **Steps/Strategies for Active Listening:**  
@@ -12,6 +13,7 @@
 ---
 
 **Question 2**
+
 **According to Fisher's model, what are the key points of Reflective Listening?**  
 
 **Key Points of Reflective Listening (Fisher’s Model):**  
@@ -25,6 +27,7 @@
 ---
 
 **Question 3**
+
 **What are the obstacles in your listening process?**  
 
 **Obstacles in Listening Process:**  
@@ -37,6 +40,7 @@
 ---
 
 **Question 4**
+
 **What can you do to improve your listening?**  
 
 **Ways to Improve Listening:**  
@@ -49,6 +53,7 @@
 ---
 
 **Question 5**  
+
 **When do you switch to Passive Communication?**  
 
 I switch to passive communication when I feel nervous, avoid conflicts, or when I don’t want to upset someone.  
@@ -56,6 +61,7 @@ I switch to passive communication when I feel nervous, avoid conflicts, or when 
 ---
 
 **Question 6**  
+
 **When do you switch to Aggressive Communication?** 
 
 I switch to aggressive communication when I feel frustrated, need to defend myself quickly, or feel my opinion is ignored.  
@@ -63,6 +69,7 @@ I switch to aggressive communication when I feel frustrated, need to defend myse
 ---
 
 **Question 7**  
+
 **When do you switch to Passive-Aggressive Communication?**  
 
 I switch to passive-aggressive communication when I’m upset but don’t want to confront directly, like using sarcasm or giving silent treatment.  
@@ -70,6 +77,7 @@ I switch to passive-aggressive communication when I’m upset but don’t want t
 ---
 
 **Question 8**  
+
 **How to Make Communication Assertive:**  
 
 1. Speak clearly and confidently without being rude.  

@@ -1,4 +1,6 @@
-**Question 1**  
+**Question 1
+What are the steps/strategies to do Active Listening?**  
+
 **Steps/Strategies for Active Listening:**  
 1. Maintain eye contact to show attentiveness.  
 2. Avoid interrupting the speaker while they are talking.  
@@ -9,7 +11,8 @@
 
 ---
 
-**Question 2**  
+**Question 2
+According to Fisher's model, what are the key points of Reflective Listening?**  
 **Key Points of Reflective Listening (Fisher’s Model):**  
 1. Listen carefully to the speaker without interrupting.  
 2. Repeat or rephrase what they said to confirm understanding.  
@@ -20,7 +23,9 @@
 
 ---
 
-**Question 3**  
+**Question 3
+What are the obstacles in your listening process?**  
+
 **Obstacles in Listening Process:**  
 - Getting distracted easily.  
 - Thinking about what to say next instead of listening.  
@@ -30,7 +35,9 @@
 
 ---
 
-**Question 4**  
+**Question 4
+What can you do to improve your listening?**  
+
 **Ways to Improve Listening:**  
 - Stay focused and remove distractions.  
 - Practice patience and avoid interrupting.  
